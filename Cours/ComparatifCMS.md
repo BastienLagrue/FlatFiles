@@ -37,14 +37,4 @@ Bitrix | 0.6% | 1.4%
 PrestaHop | 0.6% | 1.3%
 Adobe Dreamwheaver | 0.6% | 1.3%
 
-CMS | Part de marché
------------- | -------------
-WordPress | 59.2%
-Joomla | 6.2%
-Drupal | 4.9%
-Magento | 2.8%
-Blogger | 2.6%
-TYPO3 | 1.5%
-Bitrix | 1.4%
-PrestaHop | 1.3%
-Adobe Dreamwheaver | 1.3%
+
