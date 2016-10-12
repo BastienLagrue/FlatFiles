@@ -25,18 +25,15 @@ Bigcommerce : 0.4%
 
 #Tableau 
 
-
-                                               
-CMS | Utilisation absolue | Part de marché     
-------------- | ------------ | -------------   
-WordPress | 26.6% | 59.2%                      
-Joomla | 2.8% | 6.2%                           
-Drupal | 2.2% | 4.9%                           
-Magento | 1.3% | 2.8%                          
-Blogger | 1.2% | 2.6%                          
-TYPO3 | 0.7% | 1.5%                            
-Bitrix | 0.6% | 1.4%                           
-PrestaHop | 0.6% | 1.3%                        
-Adobe Dreamwheaver | 0.6% | 1.3%               
-                                               
-
+
+CMS | Utilisation absolue | Part de marché
+------------- | ------------ | -------------
+WordPress | 26.6% | 59.2%
+Joomla | 2.8% | 6.2%
+Drupal | 2.2% | 4.9%
+Magento | 1.3% | 2.8%
+Blogger | 1.2% | 2.6%
+TYPO3 | 0.7% | 1.5%
+Bitrix | 0.6% | 1.4%
+PrestaHop | 0.6% | 1.3%
+Adobe Dreamwheaver | 0.6% | 1.3%
