@@ -1,15 +1,10 @@
 ---
+title : Accueil
+layout : default
+navigation: true
 ---
-<!DOCTYPE html>
-<html>
+<p> Bonjour </p>
     
-    <head> 
-        <title>{{site.title}}</title> 
-    </head>
-    <body>
-    <h1> CECI EST UN TITRE </h1>
-    
-    <p> blah blah blah blah blah blah blah blah</p>
-    </body>
-
-</html>
+{% for post in site.posts %}
+    <a href="{{post.url}}"> {{post.title}}</a>
+{% endfor %}

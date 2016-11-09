@@ -1,6 +1,5 @@
 ---
-title : equipe
+title : Equipe
+layout : page
+navigation: true
 ---
-## Equipe ##
-
-YOUPI YOUPA 

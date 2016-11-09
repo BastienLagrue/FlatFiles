@@ -1,8 +1,7 @@
 ---
-title : contact
+title : Contact
+layout : page
+navigation: true
 ---
-## Contacts ##
 
-JP : beibv
-MA : zoefuhzof
-JC : ovierv
+Blah Blah
