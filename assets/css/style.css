@@ -1,0 +1,21 @@
+body{
+    background-image: url(../images/wtf.jpeg);
+}
+
+head {
+    background-color: burlywood;
+}
+header {
+    background-color: cornflowerblue;
+}
+p {
+    background-color: brown;
+}
+
+a {
+    background-color: blueviolet;
+}
+
+a:hover {
+    background-color: aqua;
+}
