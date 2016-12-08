@@ -1,0 +1,12 @@
+- name: Tom Preston-Werner
+  hobbies: Le paté
+  cursus : Rien
+  Motivation : aucune
+  avatar : ../assets/images/wtf.jpeg
+
+
+- name: Parker Moore
+  hobbies: Danser
+  cursus : master en gynecologie
+  motivation : Voir des filles nues
+  avatar : ../assets/images/riche.jpeg
