@@ -13,6 +13,34 @@
         <main>
         {{content}}
         </main>
+        <ul>
+            {% for member in site.data.members %}
+            <li>
+                nom : {{ member.name }} <br />
+								hobbies : {{ member.hobbies }} <br />
+								<img src="{{ member.avatar }}" alt="avatar de {{ member.name }}" width="10%">
+            </li>
+            {% endfor %}
+        </ul>
+				
+				Liste clubs ligue 1 : 
+				<ul>
+ 				{% for ligue in site.data.clubs %}
+					{% assign.footballteam={{member.footballteam}}}
+					{% assign.clubs=ligue[1] | where: key,footballteam %}
+					{% for club in ligue[1] %}
+						<li>{{club.key}}</li>
+					{% endfor %}
+				{% endfor %}
+				</ul>
+				{% for ligue in site.data.clubs %}
+					{% assign.footballteam={{member.footballteam}}}
+					{% assign.clubs=ligue[1] | where: key, footballteam %}
+					{% for club in clubs %}
+						{{club.name}}
+					{% endfor %}
+				{% endfor %}
+        
         <footer>
         {% include footer.html %}
         </footer>
